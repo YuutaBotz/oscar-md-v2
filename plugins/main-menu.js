@@ -43,7 +43,7 @@ const defaultMenu = {
   header: '╭─❑ 〔 %category 〕 ❑─\n┃',
   body: '┃❑ %cmd %islimit %isPremium',
   footer: '┃\n╰────────❑\n', 
-  footerText: 'Powered by Jarot',
+  footerText: 'Powered by Ibnu',
   after: `
 ╭──〔  THANKS TO  〕─⬣
 ⫹⫺ Allah SWT
@@ -58,6 +58,7 @@ const defaultMenu = {
 ⫹⫺ RielgansOfc
 ⫹⫺ Zifabotz_offc1
 ⫹⫺ OscarOfc
+⫹⫺ IbnuAnime
 ╰─────────────⬣
 `,
 }
@@ -527,14 +528,14 @@ const template = generateWAMessageFromContent(m.key.remoteJid, proto.Message.fro
             hydratedButtons: [{
             urlButton: {
                displayText: '🔮YOUTUBE🔮',
-               url: 'https://youtube.com/channel/UCW7iXlE7TgvJMIXQck4NYBQ'
+               url: 'https://youtube.com/channel/UCu1j3PgftLvkYybHzkWFeBg'
              }
 
            },
              {
              urlButton: {
                displayText: '🎮GROUP BOT🎮', 
-               url: 'https://chat.whatsapp.com/IqZke0cAG6G3iVsnB9myfL'
+               url: 'https://chat.whatsapp.com/KqUdPDTPmsGLokF6yIr6qO'
              }
 
            },
